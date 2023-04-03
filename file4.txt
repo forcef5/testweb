@@ -1,5 +1,6 @@
 <?php
 /*Mẫu lấy tat ca cac phim le o phimmoiplus.net
+ /*Ghi đè nnaof
  */
 date_default_timezone_set('Asia/Ho_Chi_Minh');
 include ('m3u8_file.php');
